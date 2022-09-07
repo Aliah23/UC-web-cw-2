@@ -1,0 +1,18 @@
+h1{
+    color: blanchedalmond;
+    text-align: center;
+
+}
+div{
+    background-color:d4a373 ;
+}
+body{ outline-style: dashed;}
+.card{
+    width: 500px;
+    background-color:bc6c25 ;
+    text-align: center;
+}
+
+#dish-name{ 
+    color: white;
+}
